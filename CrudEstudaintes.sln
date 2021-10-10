@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "CrudEstudaintes", ".", "{F5D02E56-5AF9-4EC2-A5F8-6F3360A4A7F8}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_1093"
+		Debug.AspNetCompiler.PhysicalPath = "..\CrudEstudaintes\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_1093\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_1093"
+		Release.AspNetCompiler.PhysicalPath = "..\CrudEstudaintes\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_1093\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1093"
+		SlnRelativePath = "..\CrudEstudaintes\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5D02E56-5AF9-4EC2-A5F8-6F3360A4A7F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5D02E56-5AF9-4EC2-A5F8-6F3360A4A7F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E201BB38-4456-4FC8-B815-04DDFA7D884F}
+	EndGlobalSection
+EndGlobal
